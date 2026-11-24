@@ -1,0 +1,10 @@
+Reunion_equipo,9,10
+Clase_algoritmos,9,11
+Entrega_proyecto,11,12
+Gimnasio,10,13
+Estudio_bd,12,14
+Llamada_cliente,13,15
+Cena,19,21
+Pelicula,20,22
+Lectura,8,9
+Taller_git,15,17
